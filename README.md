@@ -7,6 +7,7 @@
 	scheletro funzionalità di base della gui
 
 	MANCANO:
+	- 'round' dei double;
 	- collegamenti al db;
 	- reset di riga;
 	- invio messaggio tramite bot telegram;
