@@ -26,9 +26,12 @@
 	scheletro funzionalità di base della gui
 
 	MANCA:
+	- 'round' dei double; (risolto 3/02/21)
+	- reset di riga; (risolto 3/02/21)
+	- pulizia del codice con implementazione nei metodi prodotto o nel codice gui; (risolto 3/02/21)
+	- invio messaggio tramite bot telegram; (risolto 4/02/21)
 	- codifica in utf8 de testo per il bot
 	- collegamenti al db;
-	- invio messaggio tramite bot telegram;
 	- modifiche 'rimanenti' direttamente sul db;
 	- controllo automatico presenza prodotti sul db;
 	- grafica migliorata.
