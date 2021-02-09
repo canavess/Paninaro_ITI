@@ -37,9 +37,7 @@
 	- grafica migliorata.
 	
 #paninaro_nodb_finito
-	
-	***** Controllare primo if di più e meno *****
-	
+		
 	MANCA:
 	- collegamenti al db e relative modifiche
 	- grafica migliorata
