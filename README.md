@@ -2,7 +2,7 @@
 	progetto per la scuola facilitare le ordinazioni al paninaro in tempo di covid
 
 
-#paninaro_base_commentato
+#paninaro_nodb_commentato
 
 	codice commentato il più possibile in italiano
 	scheletro funzionalità di base della gui
@@ -35,3 +35,12 @@
 	- modifiche 'rimanenti' direttamente sul db;
 	- controllo automatico presenza prodotti sul db;
 	- grafica migliorata.
+	
+#paninaro_nodb_finito
+	
+	***** Controllare primo if di più e meno *****
+	
+	MANCA:
+	- collegamenti al db e relative modifiche
+	- grafica migliorata
+	- appoggio su bot ufficiale
