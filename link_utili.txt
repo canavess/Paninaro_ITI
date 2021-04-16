@@ -1,0 +1,5 @@
+conversione string to utf-8
+https://stackoverflow.com/questions/10187107/does-php-urlencode-the-same-with-java-urlencode
+
+send message to telegram from common programming language
+https://medium.com/@xabaras/sending-a-message-to-a-telegram-channel-the-easy-way-eb0a0b32968
