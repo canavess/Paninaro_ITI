@@ -24,3 +24,17 @@
 	- collegamenti al db e relative modifiche
 	- grafica migliorata
 	- appoggio su bot ufficiale
+
+
+#paninaro_2.0_nocrittografia
+
+	Niente algoritmo di crittografia
+	popup con informazioni sulle fascie di utilizzo
+	popup realtime per passaggio in zona attenzione
+	
+
+#paninaro_2.0_crittografia
+
+	Algoritmo proprietario per crittografia delle credenziali
+	di modifica e anche per la connessione al db
+
